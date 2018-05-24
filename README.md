@@ -2,7 +2,7 @@
 
 In this project, we are trying to replicate the results of this [paper](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/SCUT_FBP5500.pdf) by estimating the attractiveness rating of faces of SCUT_FBP5500 dataset. The dataset is obtained from [here](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release). 
 
-Data cleaning is done using R to obtain the average user rating for each faces in SCUT_FBP5500 dataset. These ratings can be seen in this [file](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Ratings_Data.csv).
+Data cleaning is done using R to obtain the average user rating for each face in SCUT_FBP5500 dataset. These ratings can be seen in this [file](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Ratings_Data.csv).
 
 The Final Notebook is [here](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Beauty_Prediction.ipynb) for this project.The MAE value obtained in the paper is 0.2518 using ResNeXt-50 model while we were able to obtain 0.4967 using Resnet50 model.
 
