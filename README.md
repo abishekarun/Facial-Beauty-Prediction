@@ -4,11 +4,11 @@ In this project, we are trying to replicate the results of this [paper](https://
 
 Data cleaning is done using R to obtain the average user rating for each faces in SCUT_FBP5500 dataset. These ratings can be seen in this [file](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Ratings_Data.csv).
 
-The Final Notebook is [here](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Beauty_Prediction.ipynb) for this project.The RMSE value obtained in the paper is 0.25 using Resnext50 model while we were able to obtain 0.45 using resnet50 model.
+The Final Notebook is [here](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Beauty_Prediction.ipynb) for this project.The MAE value obtained in the paper is 0.2518 using ResNeXt-50 model while we were able to obtain 0.4967 using Resnet50 model.
 
 The resources that helped me are:
 
-+ [Exploratory Analysis Iowa housing](https://www.kaggle.com/leeclemmer/exploratory-data-analysis-of-housing-in-ames-iowa)
-+ [Deal with skewed dataset](https://becominghuman.ai/how-to-deal-with-skewed-dataset-in-machine-learning-afd2928011cc)
-+ [Data Transformation](https://www.analyticsvidhya.com/blog/2016/01/guide-data-exploration/)
-+ [Writing dataframe Python](https://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file) 
++ [Imagenet with Resnet50](https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
++ [Keras Applications](https://keras.io/applications/)
++ [Fine Tuning in Keras](https://flyyufelix.github.io/2016/10/08/fine-tuning-in-keras-part2.html)
++ [Transfer Learning & Bottlenecking](https://medium.com/@galen.ballew/transferlearning-b65772083b47)
