@@ -4,7 +4,7 @@ In this project, we are trying to replicate the results of this [paper](https://
 
 Data cleaning is done using R to obtain the average user rating for each face in SCUT_FBP5500 dataset. These ratings can be seen in this [file](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Ratings_Data.csv).
 
-The Final Notebook is [here](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Beauty_Prediction.ipynb) for this project.The MAE value obtained in the paper is 0.2518 using ResNeXt-50 model while we were able to obtain 0.4967 using Resnet50 model.
+The Final Notebook is [here](https://nbviewer.jupyter.org/github/abishekarun/Facial-Beauty-Prediction/blob/master/Beauty_Prediction.ipynb) for this project.The MAE value obtained in the paper is 0.2518 using ResNeXt-50 model while we were able to obtain 0.4967 using Resnet50 model.
 
 The resources that helped me are:
 
