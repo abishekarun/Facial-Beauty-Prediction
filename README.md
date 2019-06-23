@@ -1,6 +1,6 @@
 ## Facial Beauty Prediction
 
-In this project, we are trying to replicate the results of this [paper](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/SCUT_FBP5500.pdf) by estimating the attractiveness rating of faces of SCUT_FBP5500 dataset. The dataset is obtained from [here](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release). 
+In this project, we are trying to replicate the results of this [paper](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/SCUT_FBP5500.pdf) by estimating the attractiveness rating of faces of SCUT_FBP5500 dataset as part of CPSC540 course at UBC. The dataset is obtained from [here](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release). 
 
 Data cleaning is done using R to obtain the average user rating for each face in SCUT_FBP5500 dataset. These ratings can be seen in this [file](https://github.com/abishekarun/Facial-Beauty-Prediction/blob/master/Ratings_Data.csv).
 
